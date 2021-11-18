@@ -1,0 +1,122 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* background-image: url(pr.jpg); */
+    background-repeat: no-repeat;
+    color: #fff;
+    
+}
+.logo img{
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+header
+{
+    display: flex;
+    font-size: 10px;
+    width: 100%;
+    
+}
+header h2
+{
+    display: block;
+    font-size: 15px;
+}
+header image
+{
+    display: block;
+}
+.wd
+{
+    display:flex;
+    margin-left: 10px;
+    background-color: transparent;
+    padding: 20px;
+    
+}
+.navbar 
+{
+    background-color:transparent;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 350px;
+}
+.navbar ul{
+    overflow: auto;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 13px 12px;
+    font-size: 8px;
+    font-size: 12px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding: 3px 3px;
+    /* font-size: 8px; */
+    
+    
+}
+.navbar li a:hover{
+    color:white;
+
+}
+.text
+{
+    margin-left: 20%;
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    font-family: sans-serif;
+}
+#mytext
+{
+    margin-left: 20%;
+    display: block;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color:black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:20% ;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  #donate a,.join-us a{
+      background-color: red;
+      padding: 10px;
+      border-radius: 5px;
+      letter-spacing: 0.5px;
+      text-decoration: none;
+  }
+  .join-us {
+      margin-left: 20%;
+      margin-top:50px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
